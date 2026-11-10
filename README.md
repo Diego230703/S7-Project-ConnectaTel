@@ -60,5 +60,4 @@ Sigue estos pasos para ejecutar el notebook en tu entorno local (Jupyter Noteboo
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/Diego230703/S7-Project-ConnectaTel.git](https://github.com/Diego230703/S7-Project-ConnectaTel.git)
-   cd S7-Project-ConnectaTel
+   https://github.com/Diego230703/S7-Project-ConnectaTel.git
